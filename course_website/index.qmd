@@ -1,0 +1,9 @@
+---
+title: "Python for Data Science"
+---
+
+Welcome to the Python for Data Science curriculum!
+
+This course is designed to take you from Python fundamentals to production-grade data science.
+
+[View Week 1 Explanation](explanations/Week_1_Explanation.md)
