@@ -1,3 +1,6 @@
+
+## Practice
+Choose a classification dataset on [Kaggle](https://www.kaggle.com/datasets) and build a complete machine learning pipeline using Scikit-Learn. Ensure your pipeline includes automated steps for feature engineering, scaling, and training, and utilize cross-validation to assess performance accurately.
 # Week 9: Scikit-Learn - Pipelines & Preprocessing
 
 ## Overview

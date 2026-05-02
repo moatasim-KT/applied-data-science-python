@@ -1,3 +1,6 @@
+
+## Practice
+Find a dataset on [Kaggle](https://www.kaggle.com/datasets) that requires fetching data from a public API or querying a database. Build a pipeline that automates this ingestion process using `requests` and `sqlalchemy` to populate a Pandas DataFrame for further analysis.
 # Week 14: Data Engineering Fundamentals
 
 ## Overview

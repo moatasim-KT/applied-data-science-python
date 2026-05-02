@@ -1,3 +1,6 @@
+
+## Practice
+Evaluate the models you built in previous weeks on a new classification or regression dataset from [Kaggle](https://www.kaggle.com/datasets). Focus on hyperparameter tuning and implement an ensemble method (like a voting classifier or stacking) to improve predictive performance over individual base models.
 # Week 12: Model Evaluation & Ensemble Methods
 
 ## Overview

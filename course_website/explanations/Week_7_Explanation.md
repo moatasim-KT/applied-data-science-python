@@ -1,3 +1,6 @@
+
+## Practice
+Take a multi-dimensional dataset from [Kaggle](https://www.kaggle.com/datasets) and utilize Pandas to reshape it, perform complex aggregations, and merge it with supplementary data. Focus on transforming "long" data to "wide" format and vice-versa, which is a common task in professional data preparation.
 # Week 7: Pandas Part II - Advanced Reshaping
 
 ## Overview

@@ -1,3 +1,6 @@
+
+## Practice
+Practice functional programming techniques by tackling the higher-order function and closure exercises on [Exercism](https://exercism.org/tracks/python). These challenges will help you become comfortable using functional idioms to write concise and modular data transformation code.
 # Week 3: Functional Programming & Decorators
 
 ## Overview

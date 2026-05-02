@@ -1,3 +1,6 @@
+
+## Practice
+Deploy one of your previous machine learning projects as a web service using [FastAPI](https://fastapi.tiangolo.com/). Follow tutorials on building API endpoints that accept data as input and return predictions, ensuring your service is robust and handles errors correctly.
 # Week 15: Deployment & Serving Models
 
 ## Overview

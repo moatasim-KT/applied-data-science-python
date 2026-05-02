@@ -1,3 +1,6 @@
+
+## Practice
+For your visualization project, select an engaging dataset from [Kaggle](https://www.kaggle.com/datasets) and design a comprehensive data story. Use both Matplotlib and Seaborn to create a series of statistical plots that clearly reveal patterns, relationships, and trends within the data.
 # Week 8: Data Visualization
 
 ## Overview

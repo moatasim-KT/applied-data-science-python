@@ -1,3 +1,6 @@
+
+## Practice
+Explore clustering and dimensionality reduction on an unlabeled dataset from [Kaggle](https://www.kaggle.com/datasets). Use K-Means to identify clusters and PCA to visualize the data in lower dimensions, aiming to uncover non-obvious structures and patterns.
 # Week 11: Unsupervised Learning
 
 ## Overview

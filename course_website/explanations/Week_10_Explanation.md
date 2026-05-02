@@ -1,3 +1,6 @@
+
+## Practice
+Select a regression-based dataset on [Kaggle](https://www.kaggle.com/datasets) and experiment with different supervised learning algorithms. Compare the performance of linear regression, random forests, and gradient boosting, focusing on understanding the trade-offs in complexity, interpretability, and predictive accuracy for each.
 # Week 10: Supervised Learning - Algorithms
 
 ## Overview

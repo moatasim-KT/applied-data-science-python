@@ -1,3 +1,6 @@
+
+## Practice
+Use a statistical dataset from [Kaggle](https://www.kaggle.com/datasets) and apply `scipy.stats` to test key research hypotheses. Follow up with a detailed regression analysis using `statsmodels` to explore the relationship between features, focusing on interpreting statistical summaries like p-values and confidence intervals.
 # Week 13: Statistical Modeling
 
 ## Overview

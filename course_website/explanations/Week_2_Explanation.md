@@ -1,3 +1,6 @@
+
+## Practice
+Apply object-oriented design patterns to real problems using the [Python track on Exercism](https://exercism.org/tracks/python). Focus on the class-based and object-oriented exercises to practice building clean, extensible components, which are essential for professional data pipelines.
 # Week 2: Object-Oriented Python for Data Science
 
 ## Overview

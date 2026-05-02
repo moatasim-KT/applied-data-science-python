@@ -1,3 +1,18 @@
+
+## Practice
+To master these concepts, complete the exercises on the [Python track on Exercism](https://exercism.org/tracks/python), focusing on lists, dictionaries, and comprehension challenges. These exercises will help you solidify your intuition for Pythonic data structures and memory management.
+
+## Practice
+- **Exercism Track**: Engage with the advanced concurrency exercises on [Exercism](https://exercism.org/tracks/python) to gain practical experience with managing asynchronous I/O and threading.
+
+## Practice
+- **Exercism Track**: Complete the functional programming and decorator exercises in the [Python track](https://exercism.org/tracks/python) to master writing modular, reusable code.
+
+## Practice
+- **Exercism Track**: Focus on the Object-Oriented programming exercises in the [Python track](https://exercism.org/tracks/python) to practice designing clean, maintainable classes.
+
+## Practice
+- **Exercism Track**: Complete the [Python track](https://exercism.org/tracks/python) challenges focused on collections and comprehensions to solidify your understanding of Pythonic data manipulation.
 # Week 1: Python Data Structures Deep Dive
 
 ## Overview

@@ -1,3 +1,6 @@
+
+## Practice
+Gain hands-on experience with asynchronous programming and multi-threading by completing the advanced I/O-bound exercises on [Exercism](https://exercism.org/tracks/python). This will prepare you for efficiently handling complex, high-volume data ingestion tasks in your future projects.
 # Week 4: Concurrency & Asynchronous I/O for Data Ingestion
 
 ## Overview

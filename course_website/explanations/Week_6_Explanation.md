@@ -1,3 +1,6 @@
+
+## Practice
+Pick a real-world messy dataset from [Kaggle](https://www.kaggle.com/datasets) and perform a full cleaning and wrangling session using Pandas. Your goal is to identify and resolve missing data, type mismatches, and structural issues, creating a clean dataset ready for analysis.
 # Week 6: Pandas Part I - Data Cleaning & Wrangling
 
 ## Overview

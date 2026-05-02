@@ -1,3 +1,6 @@
+
+## Practice
+Find beginner-friendly numerical datasets on [Kaggle](https://www.kaggle.com/datasets) and practice implementing vectorized operations using NumPy to perform data analysis. Focus on tasks that require manipulation of arrays to achieve high performance, mirroring common pre-processing requirements.
 # Week 5: NumPy: Memory-Efficient Computing
 
 ## Overview

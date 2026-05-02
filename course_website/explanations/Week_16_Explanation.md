@@ -1,3 +1,6 @@
+
+## Practice
+Finalize your capstone project by applying the professional engineering practices we have covered. Structure your project with robust unit tests using `pytest`, create thorough documentation, and use Git effectively to manage your development workflow. Prepare your final submission for review.
 # Week 16: Project Capstone & Best Practices
 
 ## Overview
